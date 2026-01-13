@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "ありがとう",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-01-13T16:00:27.942796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがとう。愛してた人 feat. Spontania",
+      "artist": "Tiara feat. Spontania",
+      "has_synced": true,
+      "path": "select/01_ありがとう。愛してた人_feat._Spontania_Tiara_feat._Spontania.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "P.S.ありがとう…",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/02_P.S.ありがとう..._Pile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ありがとう",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/03_ありがとう_FLOW.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ありがとう",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_ありがとう_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ありがとう (SMAP)",
+      "artist": "Vega☆オルゴール",
+      "has_synced": true,
+      "path": "select/05_ありがとう_(SMAP)_Vega☆オルゴール.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ありがとう",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_ありがとう_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arigato [ありがとう]",
+      "artist": "POLYSICS",
+      "has_synced": false,
+      "path": "select/07_Arigato_[ありがとう]_POLYSICS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ありがとう、神様",
+      "artist": "スペシャルウィーク (CV. 和氣あず未)",
+      "has_synced": false,
+      "path": "select/08_ありがとう、神様_スペシャルウィーク_(CV._和氣あず未).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ありがとう・さようなら",
+      "artist": "Hanafugetsu",
+      "has_synced": false,
+      "path": "select/09_ありがとう・さようなら_Hanafugetsu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "今、贈りたい「ありがとう」",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/10_今、贈りたい「ありがとう」_Kara.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ありがとう あなた",
+      "artist": "山口百恵",
+      "has_synced": true,
+      "path": "select/11_ありがとう_あなた_山口百恵.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "失恋、ありがとう",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/12_失恋、ありがとう_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_ありがとう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_ありがとう_いきものがかり.txt"
+    }
+  ]
+}
